@@ -15,6 +15,7 @@
 		2F6B2EC0242EDB6900321D8A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F6B2EBE242EDB6900321D8A /* LaunchScreen.storyboard */; };
 		2F6B2ECB242EDB6900321D8A /* Practice_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6B2ECA242EDB6900321D8A /* Practice_AppTests.swift */; };
 		2F6B2ED6242EDB6900321D8A /* Practice_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6B2ED5242EDB6900321D8A /* Practice_AppUITests.swift */; };
+		2FC05E2124511221007052D0 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC05E2024511221007052D0 /* VideoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2F6B2ED1242EDB6900321D8A /* Practice AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Practice AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F6B2ED5242EDB6900321D8A /* Practice_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Practice_AppUITests.swift; sourceTree = "<group>"; };
 		2F6B2ED7242EDB6900321D8A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FC05E2024511221007052D0 /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				2F6B2EB3242EDB6300321D8A /* AppDelegate.swift */,
 				2F6B2EB5242EDB6300321D8A /* SceneDelegate.swift */,
 				2F6B2EB7242EDB6300321D8A /* ContentView.swift */,
+				2FC05E2024511221007052D0 /* VideoViewController.swift */,
 				2F6B2EB9242EDB6900321D8A /* Assets.xcassets */,
 				2F6B2EBE242EDB6900321D8A /* LaunchScreen.storyboard */,
 				2F6B2EC1242EDB6900321D8A /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				2F6B2EB4242EDB6300321D8A /* AppDelegate.swift in Sources */,
 				2F6B2EB6242EDB6300321D8A /* SceneDelegate.swift in Sources */,
+				2FC05E2124511221007052D0 /* VideoViewController.swift in Sources */,
 				2F6B2EB8242EDB6300321D8A /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
