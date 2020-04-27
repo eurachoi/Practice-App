@@ -6,7 +6,7 @@ target 'Practice App' do
   use_frameworks!
 
   # Pods for Practice App
-  pod "youtube-ios-player-helper", "~> 0.1.4"
+  pod "YoutubePlayer-in-WKWebView", "~> 0.3.0"
 
   target 'Practice AppTests' do
     inherit! :search_paths
